@@ -1,6 +1,6 @@
 /*
  * FileName:T2_16.cpp
- * Author:  ��ʫԴ
+ * Author:  桂诗源
  * E-mail:  1145428914@qq.coom
  * Date:    Mar 6th,2022
  * College: School of Computer Science and Information Engineering
